@@ -6,10 +6,9 @@
 ### Виконання роботи
 - Результати виконання завдання *1...N*;
     1. Створив файл з розришенням ".py" вставив в нього код, замінив значення "Name" на своє ім'я, запустив програму і вона вивела значення:
-    https://github.com/OlegKolobych/pictures/blob/main/1.png
+    ![alt text](https://github.com/OlegKolobych/oop/raw/main/lab1/image/Screenshot_1.png)
 
-Створив  новий файл з розширенням .ipynb, вставив код в першу комірку, натиснув "Run all" і програма вивела: https://github.com/OlegKolobych/pictures/blob/main/2.png
-Створив ще одну комірку з типом "Markdown", написав опис програмного коду з назвою "моя перша програма", натиснув кнопку "run all" і програма вивела: https://github.com/OlegKolobych/pictures/blob/main/3.png
+Створив  новий файл з розширенням .ipynb, вставив код в першу комірку, натиснув "Run all" і програма вивела: ![alt text](https://github.com/OlegKolobych/oop/raw/main/lab1/image/Screenshot_2.png)
 
 
 
